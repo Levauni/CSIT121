@@ -1,0 +1,10 @@
+h1{color: gold; background-color: white ; font-family: sans-serif;}
+h3 {background-color: white;}
+nav{background-color: white;text-transform: uppercase;}
+nav {text-align: center;}
+body {text-indent: 2em}
+p{text-align: center;}
+h3 {text-align: center;}
+body {background-color: ivory;}
+.center {display:block; margin-left: auto; margin-right: auto; widith 50%; }
+ul {float: left;}
