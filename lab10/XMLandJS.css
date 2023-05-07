@@ -1,0 +1,8 @@
+h1{color: blue;font-family: sans-serif;}
+body {text-indent: 2em}
+ol {color: grey}
+table {border: 1px solid; }
+table {font-family: sans-serif;}
+table {margin-left: 3em; margin-right: auto;}
+.customIndent { margin-left: 20px}
+body {  margin-left: 20%; margin-right: 20%; }
