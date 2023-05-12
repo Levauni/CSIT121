@@ -1,0 +1,4 @@
+table {font-family: sans-serif;}
+table {background-color: lightblue;}
+td, th {border-style: outset ;padding: 0.5em; border-style: none; }
+td:hover {background-color: white;}
