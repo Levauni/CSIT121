@@ -1,0 +1,5 @@
+h1 {font-family: verdana}
+input[type=text] {width: 40%; padding: 10px; margin: 4px; 
+	border: none ;border-bottom: 2px solid; }
+textarea {width: 40%; height: 100px; padding: 12px;
+box-sizing: border-box; }
