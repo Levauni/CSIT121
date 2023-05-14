@@ -1,0 +1,8 @@
+#gallery {display: flex; flex-wrap: wrap;
+flex-direction: row; justify-content: space-around; }
+img {margin: .5em; box-shadow: 7px 7px maroon;}
+header { background-color: black; color: maroon ; height: 100px; display:flex; 
+	justify-content:center; align-items:center; }
+footer {background-color: black; color: white; display: 
+	flex; width: 100%; height: 50%; }
+P {font-size: .5em}
